@@ -8,3 +8,4 @@
     - This initializes Mysql DB in Docker container
 
 - ./mvnw spring-boot:run
+    -  Starts the Springboot application
